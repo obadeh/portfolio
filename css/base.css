@@ -134,11 +134,11 @@ h2 {
 }
 
     h2.alt {
-        color:white;
+        color: #888;
     }
 
         h2.alt strong {
-            color:white;
+            color: #666;
         }
 
 h3 {
